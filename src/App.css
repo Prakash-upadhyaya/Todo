@@ -1,0 +1,10 @@
+.checked {
+  text-decoration: line-through;
+}
+.containet-list {
+  padding-left: 30px;
+  padding-right: 20px;
+}
+.App {
+  text-align: center;
+}
